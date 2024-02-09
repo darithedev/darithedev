@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 🌱 I’m currently learning CS50x and Kotlin for Android App development
+* 👯 I’m looking to collaborate on accessibility projects
+* 💬 Ask me about anything :)
+
+

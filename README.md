@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🌱 I’m currently learning CS50x and Kotlin for Android App development
-* 👯 I’m looking to collaborate on any projects that will help me become a better software developer
+* 🌱 I’m currently working on back-end development and Android App projects
+* 👯 I’m looking to collaborate on projects that promote accessibility✨
 * 💬 Ask me about anything :)
 
 
